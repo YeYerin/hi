@@ -1,0 +1,153 @@
+.back{
+    width: 100%;
+    height: 318%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: white;
+    opacity: 0.3;
+}
+
+.icon{
+    position: absolute;
+    top: 93%;
+    left: 49%;
+    z-index: 100;
+    transform: translate(-50%, -50%);
+}
+
+.icon:hover{
+    position: absolute;
+    top: 95%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    transition: 300ms;
+}
+
+body{
+    background-image: url('./img.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'NanumSquare';
+    padding: 0;
+    margin: 0;
+}
+
+.main{
+    width: 600px;
+    height: 510px;
+    position: relative;
+    margin-top: 15%;
+    left: 30%;
+    text-align: center;
+}
+
+.age{
+    font-size: 20px;
+    position: absolute;
+    top: 80px;
+    left: 80px;
+}
+
+.yerin{
+    font-family: 'Fredoka One';
+    font-size: 80px;
+}
+
+.dsm{
+    font-size: 30px;
+    padding: 10px;
+    padding-top: 30px;
+    border-bottom: 1.5px solid black;
+}
+
+.class{
+    font-size: 20px;
+}
+
+.two{
+    background-image: url('./circle.png');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 70px;
+}
+
+.club{
+    position: relative;
+    color: rgb(68, 68, 68);
+    position: relative;
+    text-align: center;
+    font-family: 'Fredoka One';
+    font-size: 75px ;
+}   
+
+.three{
+    text-align: center;
+    background-image: url('./book.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 130px;
+}
+
+.booktopia{
+    position: relative;
+    margin-bottom: 50px;
+    font-family: 'Fredoka One';
+    font-size: 75px ;
+    color: rgb(8, 82, 30);
+}
+
+.book{
+    position: relative;
+    color: rgb(29, 29, 29);
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.four{
+    text-align: center;
+    background-image: url('./dor.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 130px;
+}
+
+.dormitory{
+    position: relative;
+    margin-bottom: 50px;
+    font-family: 'Fredoka One';
+    font-size: 75px ;
+    color: rgb(29, 29, 29);
+}
+
+.dor{
+    position: relative;
+    color: rgb(29, 29, 29);
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.five{
+    text-align: center;
+    background-image: url('./sky.png');
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 130px;
+    
+}
+
+.afron{
+    position: relative;
+    margin-bottom: 50px;
+    font-family: 'Fredoka One';
+    font-size: 75px ;
+    color: rgb(88, 30, 126);
+}
+
+.af{
+    position: relative;
+    color: rgb(29, 29, 29);
+    font-size: 20px;
+    letter-spacing: 3px;
+}
